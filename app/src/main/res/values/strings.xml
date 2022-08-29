@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Videojuego</string>
+    <string name="flappy_titulo">Flappy Jorge</string>
+    <string name="esflappyamarillo">esflappyamarillo</string>
+</resources>
